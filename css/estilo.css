@@ -38,7 +38,7 @@ body{width: 100%;}
     left: 70%;
     list-style: none;
     width: 100%;
-    display: flex;
+    display: block;
 }
 
 .list-menu a{
