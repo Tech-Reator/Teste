@@ -434,15 +434,15 @@ font-family: 'Inria Serif', serif;
 
 .card1{
     margin-left:6%;
-    
+    position: relative;
 }
 .card2{
     margin-left:6%;
-    
+    position: relative;
 }
 .card3{
     margin-left:6%;
-    
+    position: relative;
 }
 .card4{
     margin:0px;
@@ -460,7 +460,7 @@ font-family: 'Inria Serif', serif;
     display: inline-block;
     position: relative;
     left: 6%;
-    
+    position: relative;
 }
 .card7{
     margin:0px;
